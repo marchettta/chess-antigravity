@@ -1,6 +1,6 @@
 # chess-antigravity  
-**Dependences:**
-	libsfml-dev
+**Dependences:**  
+>libsfml-dev
 	
 **Instalation:**  
 >mkdir build  
