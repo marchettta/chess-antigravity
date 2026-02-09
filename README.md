@@ -1,11 +1,11 @@
-# chess-antigravity
+# chess-antigravity  
 **Dependences:**
 	libsfml-dev
 	
-**Instalation:**
-	mkdir build
-	cmake ..
-	make
+**Instalation:**  
+	mkdir build  
+	cmake ..  
+	make  
 
-**Execute**
+**Execute**  
 	./ajedrez
