@@ -3,10 +3,10 @@
 	libsfml-dev
 	
 **Instalation:**  
-      mkdir build  
-      cd build  
-      cmake ..  
-      make  
+>mkdir build  
+>cd build  
+>cmake ..  
+>make  
 
 **Execute**  
-	 ajedrez
+>ajedrez
